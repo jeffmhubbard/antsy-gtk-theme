@@ -1,3 +1,7 @@
-# antsy-gtk-theme
+# Antsy GTK2/3 Theme
 
-Antsy flat black GTK2/3 theme
+Flat, black Arc-based theme made with [oomox](https://github.com/themix-project/oomox.git)
+ 
+License
+----
+GPL
