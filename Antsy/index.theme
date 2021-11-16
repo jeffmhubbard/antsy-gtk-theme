@@ -1,12 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
 Name=Antsy
-Comment=A flat, black Arc-based theme
+Comment=Made with real Penguins
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
+Name=Antsy
 GtkTheme=Antsy
+IconTheme=Antsy
 MetacityTheme=Antsy
-IconTheme=gnome
-CursorTheme=DMZ-Black
-ButtonLayout=menu:minimize,maximize,close
